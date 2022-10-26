@@ -1,6 +1,6 @@
 
 <h1>Funcion: Agregar Personajes✅</h1>
-<h2>Para visulizar haz click aqui👉🏼 <link rel="stylesheet" href="https://chimerical-marigold-f172b4.netlify.app/"> </h2> 
+<h2>Para visulizar haz click aqui👉🏼 <a href="https://chimerical-marigold-f172b4.netlify.app/"> </a> </h2> 
 
 
 # Bases
