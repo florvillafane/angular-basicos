@@ -1,3 +1,8 @@
+
+<h1>Funcion: Agregar Personajes✅</h1>
+<h2>Para visulizar haz click aqui:👉🏼 </h2> https://chimerical-marigold-f172b4.netlify.app/
+
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
